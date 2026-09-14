@@ -1,0 +1,3 @@
+Binary search:
+
+1. First last occurence in sorted array.
